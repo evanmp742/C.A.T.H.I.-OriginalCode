@@ -11,7 +11,6 @@ def restart() :
     try:
         while True:
                 time.sleep(0.5)
-               # os.execv('/home/pi/myPiConfig/Test/restartMySelf.py',  [''])
                 os.execv(sys.executable, [sys.executable] +  ['cathi-tts.py'])
     except KeyboardInterrupt:
         print " Quit"

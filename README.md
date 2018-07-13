@@ -1,5 +1,5 @@
 # C.A.T.H.I.-OriginalCode
-![cathibanner](https://raw.githubusercontent.com/evanmp742/C.A.T.H.I.-OriginalCode/master/Cathi-1.png)
+![cathibanner](https://raw.githubusercontent.com/evanmp742/C.A.T.H.I.-OriginalCode/master/CathiBanner.png)
 Welcome to the C.A.T.H.I. Team!
 
 C.A.T.H.I. -- short for Communication Assistive Technology for the Hearing Impaired -- is a Raspberry Pi based project to help people who have difficulties with hearing to communicate.

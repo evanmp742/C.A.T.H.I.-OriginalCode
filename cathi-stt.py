@@ -24,7 +24,6 @@ def main() :
 
     try:
         print(r.recognize_google(audio))
-        time.sleep(0.5)
         restart()
     except sr.UnknownValueError:
         print("Sorry, I could not understand what you were saying. Please try again")

@@ -9,7 +9,7 @@ Come back for more updates!
 If you would like to clone C.A.T.H.I., enter this into terminal:
 
 ```bash
-git clone evanmp742.github.io/C.A.T.H.I.-OriginalCode
+git clone https://github.com/evanmp742/C.A.T.H.I.-OriginalCode.git
 ```
 
 Happy making!

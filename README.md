@@ -8,6 +8,6 @@ C.A.T.H.I. is still a work in progress, so please check back for updates!
 
 The instruction and code will be here very soon!
 
-Thanks, and as always, keep making!!!
+Thanks, and as always, happy making!!!
 
 ~ Evan Poole

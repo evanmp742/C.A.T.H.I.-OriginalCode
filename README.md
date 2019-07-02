@@ -1,6 +1,6 @@
 # C.A.T.H.I.-OriginalCode
 ![cathibanner](https://raw.githubusercontent.com/evanmp742/C.A.T.H.I.-OriginalCode/master/CathiBanner.png)
-[a link](https://evanmp742.github.io/C.A.T.H.I.-OriginalCode)
+[Go to my website!](https://evanmp742.github.io/C.A.T.H.I.-OriginalCode)
 
 Welcome to the C.A.T.H.I. Team!
 
